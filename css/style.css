@@ -55,7 +55,11 @@ nav li{
 font-size: 16px;
 font-weight: 600;
 }
+
+
 /* banner part */
+
+
 .banner{
     display: flex;
     align-items: center;
@@ -89,13 +93,21 @@ padding: 15px 0;
    padding-top: 50px;
     width:100%
 }
+
+
 /* sponsor part */
+
+
 .sponshor{
     display: flex;
     justify-content: space-evenly;
    padding-top: 50px;
 }
+
+
 /* card style */
+
+
 .card-section{
 padding-top: 100px;
 padding-bottom: 100px;
@@ -172,7 +184,11 @@ text-transform: capitalize;
 .more i{
     padding-left:15px;
 }
+
+
 /* feature part */
+
+
 .feature-section{
     padding-top: 50px;
     padding-bottom: 100px;
@@ -220,6 +236,8 @@ padding-bottom: 15px;
 }
 
 /* footer */
+
+
  footer{ 
   background: #0A0826;
 }
@@ -248,13 +266,10 @@ padding-top:20px;
 }
 
 
-
-
-
-
-
 /* media responsive  
 mobile device*/
+
+
 @media screen and (max-width:576px) {
     header,
     main,
